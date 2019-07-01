@@ -1,0 +1,16 @@
+body {
+  background-image: url("https://artmsproducts.com/wp-content/uploads/2017/12/Grey-Gradient-Background.jpg");
+}
+
+.title {
+  color: black;
+  font-size: 16vw;
+  font-family: "Sarpanch";
+  padding-top:20px;
+  text-align: center;  
+}
+
+.row {
+  padding-bottom:30px;
+  text-align: center;
+}
